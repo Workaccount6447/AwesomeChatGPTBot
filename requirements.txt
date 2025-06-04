@@ -5,3 +5,4 @@ pyTelegramBotAPI==4.16.1
 requests==2.31.0
 urllib3==2.2.2
 g4f==0.3.2.0
+flask
