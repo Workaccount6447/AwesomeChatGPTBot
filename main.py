@@ -4,7 +4,9 @@
 # FreeChatGPT telegram bot
 # Developed by Kourva
 # Source code: https://github.com/Kourva/AwesomeChatGPTBot
-
+# main.py (top of the file)
+from keep_alive import keep_alive
+keep_alive()
 # Standard library imports
 import json
 import os
